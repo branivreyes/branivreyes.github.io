@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e,e as c}from"./app.7eafb5c1.js";const u=JSON.parse('{"title":"Contact","description":"","frontmatter":{},"headers":[],"relativePath":"contact.md"}'),n={name:"contact.md"},o=c("",5),s=[o];function i(r,_,d,l,m,h){return e(),a("div",null,s)}const f=t(n,[["render",i]]);export{u as __pageData,f as default};
